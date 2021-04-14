@@ -25,4 +25,4 @@ sudo ln -s /usr/lib/x86_64-linux-gnu/pkgconfig/mutter-cogl-6.pc /usr/lib/x86_64-
 
 sudo ln -s /usr/lib/x86_64-linux-gnu/pkgconfig/mutter-clutter-6.pc /usr/lib/x86_64-linux-gnu/pkgconfig/mutter-clutter-8.pc
 
-all .pc replace 3.36.7 to 40.0
+all .pc replace shell 3.36.7 to 40.0
