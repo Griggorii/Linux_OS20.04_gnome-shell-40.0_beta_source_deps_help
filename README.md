@@ -32,3 +32,5 @@ sudo ln -s /usr/lib/x86_64-linux-gnu/pkgconfig/mutter-clutter-6.pc /usr/lib/x86_
 all .pc replace shell 3.36.7 to 40.0
 
 special os https://youtu.be/MVhZ_QZGxaQ
+
+Experiment final reinstall perfomance my original build mesa perfomance https://github.com/Griggorii/mesa-27.0.1-glib-2.31-ubuntu20.04-linux-wayland-graphics
